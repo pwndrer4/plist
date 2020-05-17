@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ipa-1259724669.file.myqcloud.com/微信分身2，Alan中文源制作.ipa</string>
+					<string>https://ipa-1259724669.file.myqcloud.com/微信分身5，Alan中文源制作.ipa</string>
 				</dict>
 <dict>
       <key>kind</key>
@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>微信多开2</string>
+				<string>微信多开5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>v1</string>
 				<key>title</key>
-				<string>微信多开2，获取更多资源关注Alan中文源</string>
+				<string>微信多开5，获取更多资源关注Alan中文源</string>
 			</dict>
 		</dict>
 	</array>
