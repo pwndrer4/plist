@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ipa.z68p.cn/ytb.ipa</string>
+					<string>https://ipa.um5.net/ytb.ipa</string>
 				</dict>
 <dict>
       <key>kind</key>
@@ -19,7 +19,7 @@
       <key>needs-shine</key>
       <true/>
       <key>url</key>
-      <string>http://apt.sileo.ga/CydiaIcon.png</string>
+      <string>https://img11.360buyimg.com/ddimg/jfs/t1/153642/27/2582/30194/5f8b9c55E219b971b/f1b09dbda8ad236f.png</string>
      </dict>
 			</array>
 			<key>metadata</key>
